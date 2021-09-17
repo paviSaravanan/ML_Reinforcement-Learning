@@ -10,6 +10,6 @@ Our aim is to choose the most attractive ad for product marketing. This can be d
 Hence this is a dynamic process. We are recording it in real time. So, we are going for reinforcement learning approach. This model is built by implementing UCB algorithm.
 
 
-
+FOLLOWING IMAGE IS THE RESULT WE OBTAINED BY IMPLEMENTING UCB ALGORITHM ON 'Ads_CTR_Optimisation'DATASET
 
 ![reinforcesnip](https://user-images.githubusercontent.com/90599757/133765062-748543c9-1b51-4e30-9abb-467c73a3244f.PNG)
